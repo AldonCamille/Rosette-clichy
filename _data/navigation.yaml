@@ -1,13 +1,14 @@
 nav:
   - title: La table
-    url: /table
-  - title: Qui sommes nous ?
+    url: /A table
     url: /description
   - title: Les vins
     url: /vins
   - title: L'adresse
     url: /adresse
+  - title: Qui sommes nous ?
   - title: Ils nous ont aidés
     url: /help
-  - title: Reservation
+  - title: Réservation
     url: /reservation
+ 
